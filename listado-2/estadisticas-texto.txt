@@ -1,0 +1,6 @@
+Estadisticas de "texto.txt":
+El archivo contiene 169 caracteres.
+El archivo contiene 8 numeros.
+El archivo contiene 122 letras.
+El archivo contiene 39 simbolos.
+El archivo contiene 32 palabras.
